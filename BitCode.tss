@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BitCode\BitCode\Form1.cs</string>
+      <string>C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BitCode\BitCode\Form1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\gabriel\documents\visual studio 2015\projects\bitcode\bitcode\fastbitmap.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>BitCode</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
